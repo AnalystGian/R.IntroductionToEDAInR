@@ -7,7 +7,7 @@ Perform EDA by plotting qualitative variables
 
 Perform EDA by plotting quantitative variables
 
-##Below is the summary of the tasks performed in this project:
+## Below is the summary of the tasks performed in this project:
 
 Task 1: Getting Started
 
